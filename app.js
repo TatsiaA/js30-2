@@ -38,10 +38,8 @@ function scrub(e) {
 
 }
 
-function videoChangeSpeed() { //Меняем скорость
-
+function videoChangeSpeed() { 
     var speed = speedSelect.value / 100;
-    
     player.playbackRate = speed;
     
     }
