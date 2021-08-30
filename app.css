@@ -1,0 +1,9 @@
+body {
+    background-color: #436923;
+}
+.player {
+    width: 100vh;
+    height: auto;
+    margin:20px;
+    
+}
